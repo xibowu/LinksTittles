@@ -31,6 +31,12 @@ https://github.com/RedisInsight/RedisDesktopManager/releases/0.9.3
 
 
 
+#### mongodb-windows-x86_64-8.0.4.zip
+https://fastdl.mongodb.org/windows/mongodb-windows-x86_64-8.0.4.zip
+
+#### studio-3t-x64.zip
+https://download.studio3t.com/studio-3t/windows/2025.4.0/studio-3t-x64.zip
+
 
 
 
