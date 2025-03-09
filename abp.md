@@ -10,7 +10,7 @@ https://abp.io/get-started
 
 ```
 dotnet tool install --global dotnet-ef
-
+dotnet tool install -g Volo.Abp.Studio.Cli
 abp new Acme.BookStore -t app-nolayers -u blazor-server -dbms SQLite --theme leptonx-lite -csf
 
 ```
