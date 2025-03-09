@@ -46,10 +46,8 @@ https://download.studio3t.com/studio-3t/windows/2025.4.0/studio-3t-x64.zip
 <br>
 
 ### PowerToysUserSetup-0.88.0-x64.exe
-https://objects.githubusercontent.com/github-production-release-asset-2e65be/184456251/68a10dcb-520e-4f8a-b235-dca74cf33ee4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250308%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250308T153226Z&X-Amz-Expires=300&X-Amz-Signature=ddd66280e00a30b2fb579279800ddd9f76023ebb2e7bbb1e469aa2c98e65e737&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3DPowerToysUserSetup-0.88.0-x64.exe&response-content-type=application%2Foctet-stream
-
-
-
-
-
-
+https://github.com/microsoft/PowerToys/releases/tag/v0.88.0
+<br>
+https://github.com/microsoft/PowerToys/releases/download/v0.88.0/PowerToysUserSetup-0.88.0-x64.exe
+<br>
+https://github.com/microsoft/PowerToys
