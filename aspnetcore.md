@@ -29,6 +29,24 @@ https://learn.microsoft.com/zh-cn/dotnet/standard/serialization/system-text-json
 #### namedpipes for pip connection
 https://learn.microsoft.com/zh-cn/aspnet/core/grpc/interprocess-namedpipes?view=aspnetcore-9.0
 
+#####  ThingsGateway
+https://github.com/ThingsGateway/ThingsGateway
+
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+
+
+
+
+
+
+
 
 
 #### DependencyInjection
