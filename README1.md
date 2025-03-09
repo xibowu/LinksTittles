@@ -2,6 +2,9 @@
 ### 迁移概述dotnet-core-cli migrations
 https://learn.microsoft.com/zh-cn/ef/core/managing-schemas/migrations/?tabs=dotnet-core-cli
 
+### PowerShell 7.5.0
+https://github.com/PowerShell/PowerShell/releases/download/v7.5.0/PowerShell-7.5.0-win-x64.exe
+
 ### abp cli
 https://abp.io/get-started
 
