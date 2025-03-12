@@ -16,9 +16,6 @@ https://marketplace.visualstudio.com/items?itemName=FittenTech.fittencode
 #### sqlitestudio from 
 https://github.com/pawelsalawa/sqlitestudio/releases/download/3.4.17/sqlitestudio-3.4.17-windows-x64.zip
 
-#### or AnotherRedisDesktopManager:
-https://github.com/qishibo/AnotherRedisDesktopManager/releases
-<br>
 
 ### redis
 ###### redis
@@ -27,6 +24,11 @@ https://github.com/microsoftarchive/redis/releases
 
 ###### RedisDesktopManager
 https://github.com/RedisInsight/RedisDesktopManager/releases/0.9.3
+<br>
+
+#### or AnotherRedisDesktopManager:
+https://github.com/qishibo/AnotherRedisDesktopManager/releases
+<br>
 <br>
 <br>
 <br>
