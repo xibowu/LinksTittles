@@ -20,15 +20,6 @@ namespace HttpLinkTittles.Client
 
             httpClient.Timeout = TimeSpan.FromSeconds(3);
 
-
-            //string url = "https://mp.weixin.qq.com/s/lutnnrhpkSKsL34gbFBSNw";
-            //url = "https://learn.microsoft.com/zh-cn/dotnet/standard/base-types/regular-expressions";
-
-            //url = "https://learn.microsoft.com/zh-cn/dotnet/fundamentals/networking/http/httpclient";
-            //url = "https://github.com/";
-            //url = "https://www.cnblogs.com/kiwiblog/p/17780232.html";
-            //url = "https://blog.csdn.net/blogdevteam/article/details/133092140?spm=1001.2014.3001.5501";
-
         }
 
 
